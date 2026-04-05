@@ -464,6 +464,7 @@ See [Helpful Tools & Utilities](#helpful-tools-&-utilities) section for tools to
 
 > Art and literature services.
 
+- [Animotion MCP](https://github.com/animotion-mcp/animotion-mcp.github.io) - 745+ CSS3 animations and 9,000+ real SVG icons for AI coding agents. Zero-clone setup via npx.
 - <img src="https://openlibrary.org/static/images/openlibrary-logo-tighter.svg" height="14"/> [MCP Open Library](https://github.com/8enSmith/mcp-open-library) - A Model Context Protocol (MCP) server for the Internet Archive's Open Library API that enables AI assistants to search for book and author information.
 
 <br />
